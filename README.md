@@ -7,6 +7,13 @@ This Repo contains  project assessment code for the  ETH PROOF: Begineer course 
 
 
 - Here we have 'Enchanced token 'solidity smart contract
+- We have mainly three Public variables
+- 'tokenName'
+- 'tokenAbbrv'
+- 'totalSupply'
+- There are two events
+- mint
+- burn
 - This solidity smart contract contains three main functions
 - Mint
 - Burn
