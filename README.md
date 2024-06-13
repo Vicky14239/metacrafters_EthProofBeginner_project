@@ -6,7 +6,7 @@ This Repo contains  project assessment code for the  ETH PROOF: Begineer course 
 
 
 
-- Here we have 'Enchanced token 'solidity smart contract
+- solidity smart contract named 'Enchanced token'
 - We have mainly three Public variables
 - 'tokenName'
 - 'tokenAbbrv'
