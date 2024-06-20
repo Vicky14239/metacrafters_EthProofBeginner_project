@@ -45,9 +45,7 @@ This function burns tokens, decreasing the totalSupply and the balance of the sp
 
 # Deployment
 
-- Ensure you have Solidity 0.8.26 installed.
-- Compile the contract using a Solidity compiler.
-- Deploy the contract to your preferred Ethereum network.
+-To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org.
 
 # Usage
 
