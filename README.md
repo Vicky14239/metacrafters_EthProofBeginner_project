@@ -8,7 +8,7 @@ This report contains project assessment code for the ETH PROOF: Beginner EVM cou
 - A mint function to add tokens.
 - A burn function to destroy tokens, with a check to ensure the sender has enough balance.
 
-# MyToken Smart Contract
+# EnchancedToken Smart Contract
 
 # Description
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. This contract is used for the creation of a token using various functions and variables. It has public variables that store the details of the token, namely tokenName, tokenAbbrv, and totalSupply. The contract also includes a mapping to store the balances of different addresses. There are two primary functions: mint, which is used for creating tokens, and burn, which destroys tokens. This program provides a fundamental demonstration of how tokens work and can serve as a foundation for more complex token-related applications.
