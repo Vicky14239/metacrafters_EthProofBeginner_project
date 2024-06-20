@@ -56,4 +56,4 @@ This function burns tokens, decreasing the totalSupply and the balance of the sp
 
 # Project by
 
-- Vicky
+- Vicky Kumar
